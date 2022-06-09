@@ -32,7 +32,7 @@ const list = [
 export default function Home() {
   return (
     <View style={styles.container}>
-      <Header name="Natanael" />
+      <Header name="Natanael Guimarães da Fonseca" />
 
     <Balance saldo="9.250,90" gastos="-527,00"/>
 
